@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="FirstTask.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="SecondTask.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FirstTask.h" />
+    <ClInclude Include="SecondTask.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
